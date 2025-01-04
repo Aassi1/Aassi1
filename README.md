@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Aassi1
+- 👋 Hi, I’m Assi
 - 👀 I’m interested in AI, Machine Learning and Algorithms Design
 - 🌱 I’m currently learning Flask 
 - 💞️ I’m looking to collaborate on any interesting projects and oportunities to learn new tech stacks 
