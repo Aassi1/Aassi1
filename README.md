@@ -13,13 +13,14 @@ I'm a passionate developer who loves building creative applications and explorin
 - **Tools:** Git, Docker, VSCode
 
 ## GitHub Stats
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)](https://github.com/Aassi1)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aassi1&show_icons=true&theme=radical)](https://github.com/Aassi1)
 
 ## GitHub Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aassi1&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/Aassi1)
 
-## Animated Contributions
-![Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/graph.svg)
+## GitHub Activity Graph
+![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aassi1&theme=react-dark)
+
 
 ## Let's Connect
 - [LinkedIn](www.linkedin.com/in/assi-assi-491470212)
