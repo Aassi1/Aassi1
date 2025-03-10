@@ -16,10 +16,11 @@ I'm a passionate developer who loves building creative applications and explorin
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Aassi1&show_icons=true&theme=radical)](https://github.com/Aassi1)
 
 ## GitHub Trophies
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aassi1&theme=onedark&no-frame=false&no-bg=false&margin-w=4)](https://github.com/Aassi1)
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Aassi1&theme=onedark)](https://github.com/Aassi1)
 
 ## GitHub Activity Graph
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=Aassi1&theme=react-dark)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aassi1&theme=react-dark)
+
 
 
 ## Let's Connect
