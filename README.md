@@ -32,7 +32,18 @@ I'm a passionate developer who loves building creative applications and explorin
 
 
 ## Let's Connect
-- [LinkedIn](www.linkedin.com/in/assi-assi-491470212)
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/assi-assi-491470212" target="_blank">
+    <!-- Replace the GIF URL below with your custom animated LinkedIn icon if you have one -->
+    <img src="https://media.giphy.com/media/l0MYB8Ory7Hqefo9a/giphy.gif" alt="LinkedIn" width="60" height="60" />
+  </a>
+</p>
+
+<p align="center">
+  <em>Connect with me on LinkedIn!</em>
+</p>
+
 
 ---
 
