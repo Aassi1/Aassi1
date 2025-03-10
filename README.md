@@ -22,9 +22,7 @@ I'm a passionate developer who loves building creative applications and explorin
 ![Activity Graph](https://github.com/ashutosh00710/github-readme-activity-graph/raw/master/graph.svg)
 
 ## Let's Connect
-- [LinkedIn](https://www.linkedin.com/in/YOUR_LINKEDIN)
-- [Twitter](https://twitter.com/YOUR_TWITTER)
-- [Portfolio](https://yourportfolio.com)
+- [LinkedIn](www.linkedin.com/in/assi-assi-491470212)
 
 ---
 
