@@ -1,11 +1,11 @@
-# Hey there! I'm [Your Name] 👋
+# Hey there! I'm Assi 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Welcome+to+my+GitHub+Profile;I+love+coding+and+designing+cool+animations)](https://git.io/typing-svg)
 
 ![Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ## About Me
-I'm a passionate developer who loves building creative applications and exploring cool animations. Whether it's crafting beautiful interfaces or writing efficient code, I'm always on the lookout for the next challenge.
+I'm a passionate developer who loves building creative applications and exploring different algorithms and AI applications
 
 ## Skills & Technologies
 - **Languages:** JavaScript, Python, Java, C++
