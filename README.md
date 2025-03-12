@@ -1,10 +1,12 @@
-# Hey there, I'm Assi 👋
+# Hello, I'm Assi 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;Innovative+Solutions;Always+Learning)](https://git.io/typing-svg)
 
 ![Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
 ## About Me
 
-I'm a passionate developer who loves building creative applications, exploring innovative algorithms, and diving into AI projects. My coding journey is driven by curiosity, grit, and a constant desire to learn—much like the determination in *Whiplash*. 🚀
+I am a professional developer dedicated to crafting creative applications and solving complex problems. With a commitment to continuous improvement and innovative thinking, I combine strong technical skills with a practical approach to delivering efficient solutions.
 
 ## Skills & Technologies
 
@@ -23,20 +25,21 @@ I'm a passionate developer who loves building creative applications, exploring i
 | :--: | :----: | :-----: |
 | <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" alt="Git" /> | <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" alt="Docker" /> | <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white" alt="VSCode" /> |
 
-## My Coding Journey
+## Commit Activity
 
-From my first "Hello World" to my latest AI project, I've embraced every challenge as an opportunity to grow. I thrive on transforming ideas into tangible projects and love the satisfaction that comes with overcoming obstacles. Every bug fixed and feature built has added a new chapter to my story.
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aassi1&theme=react-dark)
+
+## Insights & Fun Facts
+
+- **Innovative Solutions:** I thrive on finding efficient, creative approaches to solve complex challenges.
+- **Continuous Learning:** I'm passionate about exploring new technologies and methodologies to keep my skills sharp.
+- **Collaborative Spirit:** I value meaningful collaboration, whether it’s a one-on-one conversation or a team project.
+- **Attention to Detail:** Professionalism matters; every line of code is an opportunity to excel.
 
 ## Let's Connect
 
-I’m always excited to meet fellow developers and tech enthusiasts! Whether you have a project idea, collaboration opportunity, or just want to chat, feel free to reach out.
+I welcome professional opportunities and insightful discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/assi-assi-491470212) or drop me a message if you'd like to collaborate.
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/assi-assi-491470212" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn Logo" width="60" height="60" />
-  </a>
-</p>
+---
 
-> *"Coding is not just a skill—it's a journey of creativity and endless possibilities."* 
-
-Happy coding! 🚀
+Thank you for visiting my profile. Let's build something impactful together!
