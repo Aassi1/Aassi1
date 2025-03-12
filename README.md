@@ -29,13 +29,6 @@ I am a professional developer dedicated to crafting creative applications and so
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Aassi1&theme=react-dark)
 
-## Insights & Fun Facts
-
-- **Innovative Solutions:** I thrive on finding efficient, creative approaches to solve complex challenges.
-- **Continuous Learning:** I'm passionate about exploring new technologies and methodologies to keep my skills sharp.
-- **Collaborative Spirit:** I value meaningful collaboration, whether it’s a one-on-one conversation or a team project.
-- **Attention to Detail:** Professionalism matters; every line of code is an opportunity to excel.
-
 ## Let's Connect
 
 I welcome professional opportunities and insightful discussions. Connect with me on [LinkedIn](https://www.linkedin.com/in/assi-assi-491470212) or drop me a message if you'd like to collaborate.
