@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;Innovative+Solutions;Always+Learning)](https://git.io/typing-svg)
 
-![Banner](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
 ## About Me
 
 I am a professional developer dedicated to crafting creative applications and solving complex problems. With a commitment to continuous improvement and innovative thinking, I combine strong technical skills with a practical approach to delivering efficient solutions.
