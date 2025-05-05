@@ -1,6 +1,4 @@
 # Hello, I'm Assi 👋
-
-
 ## About Me
 
 I am a professional developer dedicated to crafting creative applications and solving complex problems. With a commitment to continuous improvement and innovative thinking, I combine strong technical skills with a practical approach to delivering efficient solutions.
