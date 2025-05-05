@@ -1,6 +1,5 @@
 # Hello, I'm Assi 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=Passionate+Developer;Innovative+Solutions;Always+Learning)](https://git.io/typing-svg)
 
 ## About Me
 
