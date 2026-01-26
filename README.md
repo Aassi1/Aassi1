@@ -2,7 +2,7 @@
 
 **Third-Year Computer Science @ Carleton University | AI & Machine Learning Specialist**
 
-I build AI systems that solve real problems. Currently working on enterprise automation at Gatestone Technology while maintaining a 3.80 GPA and training neural networks to understand the world through computer vision.
+I build AI systems that solve real problems. Currently working on enterprise automation at Gatestone Technology and training neural networks to understand the world through computer vision.
 
 ---
 
