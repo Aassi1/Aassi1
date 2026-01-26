@@ -6,20 +6,20 @@ I build AI systems that solve real problems. Currently working on enterprise aut
 
 ---
 
-## 🎯 What I'm Building
+##  What I'm Building
 
 **Right Now:**
-- 🏋️ **Performance Optimization System** - Full-stack app tracking workouts, study sessions, and wellness with ML-powered insights (React/TypeScript, FastAPI, PostgreSQL, PyTorch)
-- 🤖 **Enterprise AI Prototypes** - RFP automation using RAG, vector embeddings, and LLMs at Gatestone Technology
+-  **Performance Optimization System** - Full-stack app tracking workouts, study sessions, and wellness with ML-powered insights (React/TypeScript, FastAPI, PostgreSQL, PyTorch)
+-  **Enterprise AI Prototypes** - RFP automation using RAG, vector embeddings, and LLMs at Gatestone Technology
 
 **Previously:**
-- 🤟 **ASL Translation System** - Real-time sign language recognition with computer vision (78K+ images, MediaPipe, PyTorch)
-- 🎭 **Deepfake Detection** - CNN-based authenticity detector achieving 96.73% precision (EfficientNet, 391K images)
-- 💬 **Call Analysis Tool** - NLP-powered customer service evaluation using Deepgram API
+-  **ASL Translation System** - Real-time sign language recognition with computer vision (78K+ images, MediaPipe, PyTorch)
+-  **Deepfake Detection** - CNN-based authenticity detector achieving 96.73% precision (EfficientNet, 391K images)
+-  **Call Analysis Tool** - NLP-powered customer service evaluation using Deepgram API
 
 ---
 
-## 💻 Technical Arsenal
+##  Technical Arsenal
 
 **AI/ML:** PyTorch • TensorFlow • Scikit-learn • OpenCV • MediaPipe • Hugging Face • RAG Systems • Vector Embeddings
 
@@ -41,7 +41,7 @@ I build AI systems that solve real problems. Currently working on enterprise aut
 
 ---
 
-## 🎓 Academic Journey
+##  Academic Journey
 
 **Carleton University** - Computer Science (AI & Machine Learning)
 - Expected Graduation: May 2028
