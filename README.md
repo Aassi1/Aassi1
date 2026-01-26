@@ -1,63 +1,39 @@
 # Hey, I'm Assi 👋
 
-**Third-Year Computer Science @ Carleton University | AI & Machine Learning Specialist**
+Third-year CS student at Carleton building AI systems.
 
-I build AI systems that solve real problems. Currently working on enterprise automation at Gatestone Technology and training neural networks to understand the world through computer vision.
+## What I'm Working On Right Now
 
----
+**Performance Optimization System** -  Full-stack app using React/TypeScript, FastAPI, PostgreSQL, and PyTorch. Doubles as my final project for two classes (database management + neural networks).
 
-##  What I'm Building
+## Things I've Built
 
-**Right Now:**
--  **Performance Optimization System** - Full-stack app tracking workouts, study sessions, and wellness with ML-powered insights (React/TypeScript, FastAPI, PostgreSQL, PyTorch)
--  **Enterprise AI Prototypes** - RFP automation using RAG, vector embeddings, and LLMs at Gatestone Technology
+**ASL Translation System** - Real-time sign language recognition using computer vision. Trained on 78,000+ images with MediaPipe and PyTorch. Built this because accessibility tech is cool and challenging.
 
-**Previously:**
--  **ASL Translation System** - Real-time sign language recognition with computer vision (78K+ images, MediaPipe, PyTorch)
--  **Deepfake Detection** - CNN-based authenticity detector achieving 96.73% precision (EfficientNet, 391K images)
--  **Call Analysis Tool** - NLP-powered customer service evaluation using Deepgram API
+**Deepfake Detection** - CNN-based detector that tells you if a face is real or AI-generated. 96.73% precision on 391K images using EfficientNet. 
 
----
+**RFP Automation Prototypes** - Current internship work at Gatestone Technology. Building AI tools for enterprise document processing using RAG, vector embeddings, and LLMs (OpenAI/Claude APIs).
 
-##  Technical Arsenal
+**Call Analysis Tool** - NLP system that analyzes customer service calls using Deepgram API. Automated scoring for agent performance.
 
-**AI/ML:** PyTorch • TensorFlow • Scikit-learn • OpenCV • MediaPipe • Hugging Face • RAG Systems • Vector Embeddings
+## Stack I Use
 
-**Languages:** Python • C++ • Java • SQL • JavaScript/TypeScript • C
+**AI/ML stuff:** PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe, Hugging Face, RAG systems
 
-**Frameworks & Tools:** React • FastAPI • Flask • Qt • PostgreSQL • Docker • Git • Linux
+**Languages:** Python (most comfortable), C++, Java, SQL, JavaScript/TypeScript, C
 
-**Cloud & APIs:** AWS • OpenAI API • Claude API • Deepgram API
+**Web/Backend:** React, FastAPI, Flask, Qt, PostgreSQL, Docker
 
----
+**Cloud:** AWS, OpenAI API, Claude API, Deepgram API
 
+Currently aiming for Summer 2026 internships in ML/AI engineering.
 
-**Current Focus Areas:**
-- Deep Learning & Neural Networks
-- Computer Vision & Real-Time Systems
-- Full-Stack ML Applications
-- Enterprise AI Integration
+## Connect
 
+Looking to chat about AI research, startup ideas, or good projects to work on.
+
+[LinkedIn](https://www.linkedin.com/in/assi-assi-491470212) | Email: [assia8632@gmail.com]
 
 ---
 
-##  Academic Journey
-
-**Carleton University** - Computer Science (AI & Machine Learning)
-- Expected Graduation: May 2028
-- Key Coursework: Neural Networks, Database Management, Algorithms, Data Structures, Computer Vision
-
----
-
-## 📫 Let's Connect
-
-I'm always interested in discussing AI research, startup ideas, or collaborating on impactful projects.
-
-**Currently looking for:** Summer 2026 internships in ML Engineering, Software Engineering, or AI Research
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/assi-assi-491470212)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:assia8632@gmail.com)
-
----
-
-*"Building AI systems that actually ship. Learning in public. Training algorithms and muscles."*
+*Building AI, training algorithms, training myself.*
