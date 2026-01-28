@@ -36,4 +36,4 @@ Looking to chat about AI research, startup ideas, or good projects to work on.
 
 ---
 
-*Building AI, training algorithms, training myself.*
+*Building AI, training algorithms, continuously learning.*
