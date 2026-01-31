@@ -1,7 +1,5 @@
 # Hey, I'm Assi 👋
 
-Third-year CS student at Carleton building AI systems.
-
 ## What I'm Working On Right Now
 
 **Performance Optimization System** -  Full-stack app using React/TypeScript, FastAPI, PostgreSQL, and PyTorch. Doubles as my final project for two classes (database management + neural networks).
