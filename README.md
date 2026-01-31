@@ -34,6 +34,3 @@ Looking to chat about AI research, startup ideas, or good projects to work on.
 
 [LinkedIn](https://www.linkedin.com/in/assi-assi-491470212) | Email: [assia8632@gmail.com]
 
----
-
-*Building AI, training algorithms, continuously learning.*
