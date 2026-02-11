@@ -18,7 +18,7 @@
 
 **AI/ML stuff:** PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe, Hugging Face, RAG systems
 
-**Languages:** Python (most comfortable), C++, Java, SQL, JavaScript/TypeScript, C
+**Languages:** These are presented in "most comfortable" order :  Python, C++, SQL, JavaScript/TypeScript, Java C, Ruby
 
 **Web/Backend:** React, FastAPI, Flask, Qt, PostgreSQL, Docker
 
