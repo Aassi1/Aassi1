@@ -24,7 +24,7 @@
 
 **Cloud:** AWS, OpenAI API, Claude API, Deepgram API
 
-Currently aiming for Summer 2026 internships in ML/AI engineering.
+Currently aiming for Summer 2026 internships in ML/AI engineering or New Grad positions for 2027.
 
 ## Connect
 
