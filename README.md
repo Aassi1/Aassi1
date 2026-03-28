@@ -2,7 +2,7 @@
 
 ## What I'm Working On Right Now
 
-**Performance Optimization System** -  Full-stack app using React/TypeScript, FastAPI, PostgreSQL, and PyTorch. Doubles as my final project for two classes (database management + neural networks).
+**Real-Time Gym Form Analyzer** — Computer vision system using MediaPipe, PyTorch, and OpenCV. Extracts joint angles from live webcam feed to classify exercises, analyze form, and count reps in real time. Final project for COMP 4107 Neural Networks at Carleton University.
 
 ## Things I've Built
 
