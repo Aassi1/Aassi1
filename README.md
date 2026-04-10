@@ -2,9 +2,11 @@
 
 ## What I'm Working On Right Now
 
-**Real-Time Gym Form Analyzer** — Computer vision system using MediaPipe, PyTorch, and OpenCV. Extracts joint angles from live webcam feed to classify exercises, analyze form, and count reps in real time. Final project for COMP 4107 Neural Networks at Carleton University.
+Between projects, taking a little break, starting something exciting soon!
 
 ## Things I've Built
+
+**Real-Time Gym Form Analyzer**  - Computer vision pipeline using MediaPipe, PyTorch, and OpenCV. Classifies exercises, detects specific form errors, and counts reps from live video. MLP for exercise classification (92%) and 1D CNN for form error detection (93%) across 14 form classes. Ablation study confirmed CNN outperforms MLP by 19 points.
 
 **ASL Translation System** - Real-time sign language recognition using computer vision. Trained on 78,000+ images with MediaPipe and PyTorch. Built this because accessibility tech is cool and challenging.
 
