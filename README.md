@@ -2,7 +2,7 @@
 
 ## What I'm Working On Right Now
 
-Between projects, taking a little break, starting something exciting soon!
+Currently brewing a custom information retrieval pipeline. It's a secret for now, but expect some heavy PyTorch and NumPy soon!
 
 ## Things I've Built
 
