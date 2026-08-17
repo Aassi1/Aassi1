@@ -2,7 +2,7 @@
 
 ## What I'm Working On Right Now
 
-Currently brewing a custom information retrieval pipeline. It's a secret for now, but expect some heavy PyTorch and NumPy soon!
+Currently working on something special, coming soon...
 
 ## Things I've Built
 
@@ -22,11 +22,11 @@ Currently brewing a custom information retrieval pipeline. It's a secret for now
 
 **Languages:** These are presented in "most comfortable" order :  Python, C++, SQL, JavaScript/TypeScript, Java C, Ruby
 
-**Web/Backend:** React, FastAPI, Flask, Qt, PostgreSQL, Docker
+**Web/Backend:** React, FastAPI, Flask, Qt, PostgreSQL, Docker, Kubernetes
 
 **Cloud:** AWS, OpenAI API, Claude API, Deepgram API
 
-Currently aiming for Summer 2027 internships in many fields inlcuding but not limited to Quant development, ML/AI engineering, cloud development, full-stack software engineering or New Grad positions for 2027.
+Currently aiming for Summer 2027 internships in many fields inlcuding but not limited to Quant development, ML/AI engineering, cloud development, full-stack software engineering. I'm also open to new grad positions in these fields
 
 ## Connect
 
