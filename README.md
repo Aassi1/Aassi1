@@ -12,7 +12,7 @@ Currently working on something special, coming soon...
 
 **Deepfake Detection** - CNN-based detector that tells you if a face is real or AI-generated. 96.73% precision on 391K images using EfficientNet. 
 
-**RFP Automation Prototypes** - Current internship work at Gatestone. Building AI tools for enterprise document processing using RAG, vector embeddings, and LLMs (OpenAI/Claude APIs).
+**RFP Automation Prototypes** -  Internship work at Gatestone. Building AI tools for enterprise document processing using RAG, vector embeddings, and LLMs (OpenAI/Claude APIs).
 
 **Call Analysis Tool** - NLP system that analyzes customer service calls using Deepgram API. Automated scoring for agent performance.
 
