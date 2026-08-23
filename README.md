@@ -2,7 +2,7 @@
 
 ## What I'm Working On Right Now
 
-Currently working on something special, coming soon...
+Currently working on something special, coming soon hopefully
 
 ## Things I've Built
 
