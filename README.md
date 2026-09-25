@@ -18,13 +18,15 @@ Currently working on something special, coming soon hopefully
 
 ## Stack I Use
 
-**AI/ML stuff:** PyTorch, TensorFlow, scikit-learn, OpenCV, MediaPipe, Hugging Face, RAG systems
+These are presented in most familiar order 
 
-**Languages:** These are presented in "most comfortable" order :  Python, C++, SQL, JavaScript/TypeScript, Java C, Ruby
+**AI/ML stuff:** PyTorch, scikit-learn, OpenCV, MediaPipe, Hugging Face
 
-**Web/Backend:** React, FastAPI, Flask, Qt, PostgreSQL, Docker, Kubernetes
+**Languages:** :  Python, C++, SQL, JavaScript/TypeScript, Java C, Ruby
 
-**Cloud:** AWS, OpenAI API, Claude API, Deepgram API
+**Web/Backend:** React, FastAPI, Flask, Qt, PostgreSQL, Docker, Kubernetes, Spring,  JUnit, 
+
+**Cloud/Other tools:** AWS, Kubernetes, APIs, ...
 
 Currently aiming for Summer 2027 internships in many fields inlcuding but not limited to Quant development, ML/AI engineering, cloud development, full-stack software engineering. I'm also open to new grad positions in these fields
 
