@@ -24,11 +24,11 @@ These are presented in most familiar order
 
 **Languages:** :  Python, C++, SQL, JavaScript/TypeScript, Java C, Ruby
 
-**Web/Backend:** React, FastAPI, Flask, Qt, PostgreSQL, Docker, Kubernetes, Spring,  JUnit, 
+**Web/Backend:** Java, SQL/SSMS, FastAPI, Flask, Qt, PostgreSQL, Docker, Spring,  JUnit, 
 
-**Cloud/Other tools:** AWS, Kubernetes, APIs, ...
+**Cloud/Other tools:** AWS, Kubernetes, APIs, K9s ...
 
-Currently aiming for Summer 2027 internships in many fields inlcuding but not limited to Quant development, ML/AI engineering, cloud development, full-stack software engineering. I'm also open to new grad positions in these fields
+Currently aiming for Summer 2027 internships in many fields including but not limited to Quant development, ML/AI engineering, cloud development, back-end engineering, data engineering. I'm also open to new grad positions in these fields
 
 ## Connect
 
